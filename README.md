@@ -16,4 +16,4 @@ Semantic search with Pinecone vector database.
 ---
 
 ### 📫 Contact
-You can reach me on [LinkedIn](https://linkedin.com/in/Duvideam) or check out my code on [GitHub](https://github.com).
+You can reach me on [LinkedIn](https://linkedin.com/in/Duvideam) or check out my Tableau Public profile on [GitHub](https://public.tableau.com/duvideam).

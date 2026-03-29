@@ -1,19 +1,19 @@
 # 🌟 My Developer Portfolio
 
 ### 🔒 About Me
-I’m an aspiring developer passionate about learning new technologies and building cool projects.
+I’m an aspiring AI Engineer passionate about learning new technologies and building cool projects.
 
 ---
 
 ### 🚀 Projects
 
 **Project One**  
-A simple app I built to practice SwiftUI.
+Labelling fashion items using CNNs with TensorFlow in Python.
 
 **Project Two**  
-A fun side project experimenting with APIs.
+Semantic search with Pinecone vector database.
 
 ---
 
 ### 📫 Contact
-You can reach me on [LinkedIn](https://linkedin.com) or check out my code on [GitHub](https://github.com).
+You can reach me on [LinkedIn](https://linkedin.com/in/Duvideam) or check out my code on [GitHub](https://github.com).
